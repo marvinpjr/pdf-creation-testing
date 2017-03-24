@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCreation.Tests", "PdfCreation\PdfCreation.Tests.csproj", "{269EC241-C369-4AD8-AF7F-EA8AFDBCFE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCreation.App", "PdfCreation.App\PdfCreation.App.csproj", "{B107CCBC-6E01-4B6B-ACEA-8C452C884A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269EC241-C369-4AD8-AF7F-EA8AFDBCFE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269EC241-C369-4AD8-AF7F-EA8AFDBCFE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269EC241-C369-4AD8-AF7F-EA8AFDBCFE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269EC241-C369-4AD8-AF7F-EA8AFDBCFE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B107CCBC-6E01-4B6B-ACEA-8C452C884A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B107CCBC-6E01-4B6B-ACEA-8C452C884A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B107CCBC-6E01-4B6B-ACEA-8C452C884A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B107CCBC-6E01-4B6B-ACEA-8C452C884A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

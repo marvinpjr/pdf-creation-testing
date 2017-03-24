@@ -1,0 +1,8 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\obj\Debug\PdfCreation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\bin\Debug\PdfCreation.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\bin\Debug\PdfCreation.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\bin\Debug\itextsharp.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\bin\Debug\PdfCreation.App.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\bin\Debug\PdfCreation.App.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\obj\Debug\PdfCreation.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation\obj\Debug\PdfCreation.pdb

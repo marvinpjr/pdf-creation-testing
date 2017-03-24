@@ -1,0 +1,5 @@
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation.App\bin\Debug\PdfCreation.App.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation.App\bin\Debug\PdfCreation.App.pdb
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation.App\bin\Debug\itextsharp.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation.App\obj\Debug\PdfCreation.App.dll
+C:\Users\marvinpjr\Dropbox\Marvin\Code\PdfCreation\PdfCreation.App\obj\Debug\PdfCreation.App.pdb
